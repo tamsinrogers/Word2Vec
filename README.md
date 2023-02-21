@@ -10,8 +10,10 @@ After naming each python file in the chosen matplotlib, scikit-learn, and scipy 
 
 ## Discussion ##
 I determined the following similarities of identifiers in code mined from the repositories I chose:
-<p><img width="369" alt="Screen Shot 2023-02-21 at 9 59 14 AM" src="https://user-images.githubusercontent.com/30237570/220380197-46cb2876-5db6-411e-967c-e2c1afa7eed3.png"></p>
-<p> We can see that 'for' is deemed most similar to 'in', which makes sense in the context of loops and ranges.  'If' is deemed most most similar to 'in', which makes sense in the context of searching for an item within something, like a specific file in a folder.  'Setup' and 'sys', are, as expected, very similar: 99%, as are 'from' and 'import'and 'scikit' and 'scipy'.</p> 
+<p><img width="435" alt="Screen Shot 2023-02-21 at 10 13 46 AM" src="https://user-images.githubusercontent.com/30237570/220384031-8adf535d-e30b-47bb-ae55-1b13ba03b886.png"></p>
+<p><img width="537" alt="Screen Shot 2023-02-21 at 10 13 53 AM" src="https://user-images.githubusercontent.com/30237570/220384095-c829cfcd-407a-4b72-b3a0-8a56f026b146.png">
+ </p>
+<p> We can see that 'for' is deemed most similar to 'in', which makes sense in the context of loops and ranges.  'If' is deemed most most similar to 'in', which makes sense in the context of searching for an item within something, like a specific file in a folder.  'Setup' and 'sys', are, as expected, very similar: 99%, as are 'from' and 'import'and 'scikit' and 'scipy'.  Itested some other tokens to demonstrate relationships between identifiers in this model.</p> 
 
 
 ## Extensions ##
